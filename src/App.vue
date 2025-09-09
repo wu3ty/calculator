@@ -1,5 +1,5 @@
 <template>
-  <main class="container">
+  <main class="containe">
     <h1>🧮 Group 1's Calculator</h1>
     <Calculator />
     <p class="tip">Try entering two numbers and click Add or Subtract.</p>
