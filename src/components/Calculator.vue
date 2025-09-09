@@ -28,6 +28,7 @@
 import { ref } from 'vue'
 import { add, subtract } from '../utils/math'
 
+const unused
 const a = ref(0)
 const b = ref(0)
 const result = ref(0)
