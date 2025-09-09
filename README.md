@@ -22,7 +22,7 @@ make test-ci
 
 ## GitHub Actions
 
-This repo contains a workflow at `.github/workflows/ci.yml` that:
+This repo contains a workflow at `.github/workflows/node.js.yml` that:
 
 - Checks out your code
 - Uses Node 20
