@@ -20,6 +20,12 @@ make test
 make test-ci
 ```
 
+Run linting:
+
+```bash
+make lint
+```
+
 ## GitHub Actions
 
 This repo contains a workflow at `.github/workflows/node.js.yml` that:
