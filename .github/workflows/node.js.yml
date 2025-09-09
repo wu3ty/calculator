@@ -2,11 +2,12 @@
 name: Node.js CI & Pages Deployment
 
 on:
-  push:
-    branches: ["main"]
   pull_request:
-    branches: ["main"]
-
+    branches: [ "main" ]
+  merge_group:              # optional, supports GitHub's merge queue
+  push:
+    branches: [ "main" ]    # deploy after a PR is merged
+    
 # Required for deploying Pages
 permissions:
   contents: read
