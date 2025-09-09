@@ -1,6 +1,6 @@
 <template>
   <main class="container">
-    <h1>🧮 Simple Calculator</h1>
+    <h1>🧮 Stefan's Calculator</h1>
     <Calculator />
     <p class="tip">Try entering two numbers and click Add or Subtract.</p>
   </main>
