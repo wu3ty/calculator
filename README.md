@@ -1,4 +1,4 @@
-# Vue Calculator CI Demo
+# Stefan's Calculator Demo
 
 A tiny Vue 3 + Vite project you can use to demonstrate CI/CD with GitHub Actions.  
 It includes unit tests (Vitest + Vue Test Utils) and a workflow that runs on every push and pull request.
