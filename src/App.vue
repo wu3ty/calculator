@@ -1,14 +1,13 @@
 <template>
   <main class="container">
-    <h1>🧮 Christian's Calculator</h1>
+    <h1>🧮 Stefans's Calculator</h1>
     <Calculator />
     <p class="tip">Try entering two numbers and click Add or Subtract.</p>
   </main>
-</templat2sdrfe>
+</template>
 
 <script setup>
 import Calculator from './components/Calculator.vue'
-  sdffds
 </script>
 
 <style>
