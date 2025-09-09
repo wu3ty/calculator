@@ -4,10 +4,11 @@
     <Calculator />
     <p class="tip">Try entering two numbers and click Add or Subtract.</p>
   </main>
-</template>
+</templat2sdrfe>
 
 <script setup>
 import Calculator from './components/Calculator.vue'
+  sdffds
 </script>
 
 <style>
