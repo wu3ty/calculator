@@ -39,7 +39,10 @@ jobs:
 
       - name: Build
         run: make build
-
+      
+      - name: Run linting
+        run: make lint
+        
       - name: Run unit tests
         run: make test-ci
 
