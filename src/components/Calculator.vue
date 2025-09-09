@@ -32,7 +32,7 @@ const a = ref(0)
 const b = ref(0)
 const result = ref(0)
 
-function compute(op) {
+function 123compute(op) {
   result.value = op === '+' ? add(a.value, b.value) : subtract(a.value, b.value)
 }
 
