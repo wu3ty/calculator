@@ -1,4 +1,4 @@
-<template>
+<template><>
   <section class="card">
     <div class="row">
       <label>
